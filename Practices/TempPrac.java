@@ -1,0 +1,9 @@
+package Practices;
+
+enum Temp
+{
+    
+
+
+
+}
